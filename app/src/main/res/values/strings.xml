@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Crod</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="crod">Центр развития одаренных детей</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="timetable">Раписание</string>
+    <string name="tour">Смена</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="reg">Регистрация</string>
+    <string name="btn_login">Вход</string>
+    <string name="btn_reg">Создать аккаунт</string>
+    <string name="btn_nohave_account">Нет аккаунта? Регистрация</string>
+    <string name="btn_have_account">Есть аккаунт? Войти</string>
+
+
+    <string name="db_name">Name</string>
+    <string name="db_surname">Surname</string>
+    <string name="db_email">Email</string>
+    <string name="db_tutor">Tutor</string>
+    <string name="db_tour">Tour</string>
+    <string name="db_сomment">Comment</string>
+
+    <string name="sp_name">mName</string>
+    <string name="sp_surname">mSurame</string>
+    <string name="sp_pass">mPass</string>
+    <string name="sp_email">mEmail</string>
+
+    <string name="menu_news">Новости</string>
+    <string name="menu_tour">Смена</string>
+    <string name="How_was_your_day">Как прошел день?</string>
+    <string name="menu_account">Профиль</string>
+    <string name="exit">Выход</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
